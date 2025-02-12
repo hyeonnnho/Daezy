@@ -5,51 +5,51 @@
   font-family: 'Noto Sans KR';
   font-style: normal;
   font-weight: 100;
-  src: url(../css/fonts/NotoSansKR-Thin.woff) format('woff'),
-      url(../css/fonts/NotoSansKR-Thin.ttf) format('ttf');
+  src: url(/css/fonts/NotoSansKR-Thin.woff) format('woff'),
+      url(/css/fonts/NotoSansKR-Thin.ttf) format('ttf');
 }
 @font-face {
   font-family: 'Noto Sans KR';
   font-style: normal;
   font-weight: 300;
-  src: url(../fonts/NotoSansKR-Light.woff) format('woff'),
-       url(../fonts/NotoSansKR-Light.ttf) format('ttf');
+  src: url(/css/fonts/NotoSansKR-Light.woff) format('woff'),
+       url(/css/fonts/NotoSansKR-Light.ttf) format('ttf');
 }
 @font-face {
    font-family: 'Noto Sans KR';
    font-style: normal;
    font-weight: 400;
-   src: url(../fonts/NotoSansKR-Regular.woff) format('woff'),
-        url(../fonts/NotoSansKR-Regular.ttf) format('ttf');
+   src: url(/css/fonts/NotoSansKR-Regular.woff) format('woff'),
+        url(/css/fonts/NotoSansKR-Regular.ttf) format('ttf');
  }
 @font-face {
    font-family: 'Noto Sans KR';
    font-style: normal;
    font-weight: 500;
-   src: url(../fonts/NotoSansKR-Medium.woff) format('woff'),
-        url(../fonts/NotoSansKR-Medium.ttf) format('ttf');
+   src: url(/css/fonts/NotoSansKR-Medium.woff) format('woff'),
+        url(/css/fonts/NotoSansKR-Medium.ttf) format('ttf');
  }
 @font-face {
    font-family: 'Noto Sans KR';
    font-style: normal;
    font-weight: 700;
-   src: url(../fonts/NotoSansKR-Bold.woff) format('woff'),
-        url(../fonts/NotoSansKR-Bold.ttf) format('ttf');
+   src: url(/css/fonts/NotoSansKR-Bold.woff) format('woff'),
+        url(/css/fonts/NotoSansKR-Bold.ttf) format('ttf');
  }
 @font-face {
    font-family: 'Noto Sans KR';
    font-style: normal;
    font-weight: 900;
-   src: url(../fonts/NotoSansKR-Black.woff) format('woff'),
-        url(../fonts/NotoSansKR-Black.ttf) format('ttf');
+   src: url(/css/fonts/NotoSansKR-Black.woff) format('woff'),
+        url(/css/fonts/NotoSansKR-Black.ttf) format('ttf');
  }
 
  @font-face {
   font-family: 'Pacifico';
   font-style: normal;
   font-weight: normal;
-  src: url(../css/fonts/Pacifico-Regular.woff) format('woff'),
-      url(../css/fonts/Pacifico-Regular.ttf) format('ttf');
+  src: url(/css/fonts/Pacifico-Regular.woff) format('woff'),
+      url(/css/fonts/Pacifico-Regular.ttf) format('ttf');
 }
 
 
