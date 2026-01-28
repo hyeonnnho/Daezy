@@ -1,5 +1,7 @@
 /* CSS Document */
-
+* {
+  box-sizing: border-box;
+}
 /* font-face */
 @font-face {
     font-family: 'Noto Sans KR';
