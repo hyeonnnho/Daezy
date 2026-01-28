@@ -524,6 +524,12 @@ article.container section.notice::before {
     bottom: 0;
 }
 
+.notice-name,
+.notice-contents {
+    position: relative; /* z-index가 먹히려면 position이 필요함 */
+    z-index: 1; /* 돼지(기본 0)보다 숫자를 높게 줌 */
+}
+
 .notice-name {
     display: block;
     width: 393px;
